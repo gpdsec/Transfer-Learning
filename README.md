@@ -24,7 +24,7 @@ ____________________________________________________
 TensorFlow "*food101*" dataset are used in Model
 
 #### **Model Detail**
-In this model, I am able to achieve 77.49% overall accuracy on the validation Data set with EfficientNetB0 base model
+In this model, I am able to achieve 77.49% overall accuracy on the full validation Data set with EfficientNetB0 base model
 
 ##### ***Different inferences***
 1. On a similar dataset but with ResNet50 as a base model it gives maximum validation accuracy of 72%
